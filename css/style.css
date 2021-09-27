@@ -118,6 +118,7 @@ button:hover {
         margin: 10px;
         width: 350px;
         height: 600px;
+        color: black;
     }
 }
 
@@ -127,6 +128,7 @@ button:hover {
         top: 10px;
         left: 200px;
         margin: 10px;
+        color: black;
     }
 }
 
@@ -138,6 +140,7 @@ button:hover {
         margin: 10px;
         width: 347px;
         height: 590px;
+        color: black;
     }
 }
 
